@@ -21,7 +21,7 @@ Console application with no purpose.
 ```bash
 
     # clone repository
-    git clone https://github.com/EvaldasBurlingis/nodejs-cli-dadjoke-generator
+    git@github.com:EvaldasBurlingis/nodejs-cli-dadjoke-generator.git
 
     # change directory
     cd nodejs-cli-dadjoke-generator
